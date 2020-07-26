@@ -19,7 +19,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              Komenteo
+              <img src="img/komenteo.png" className="img-responsive" width="180" alt=""/>
             </a>{" "}
           </div>
 
