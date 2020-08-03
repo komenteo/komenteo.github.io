@@ -1,54 +1,49 @@
 {
     "Header": {
         "title": "Komenteo",
-        "paragraph": "Get new customers. Make your store visible online"
+        "paragraph": "Comments matter"
 
     },
     "About": {
         "paragraph": "We drive new clients to your store and compensate them to leave trustful reviews.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor"
+          "Reach thousands of customers that live close to your store",
+          "Target customers based on their profile",
+          "Pay real clients to leave honest reviews"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor"
+          "We verify that the reviews come from real customers",
+          "Customers only get paid after they leave their review"
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Get new Customers",
-            "text": "Komenteo drives new customers to your store."
+  "Services": {
+    "Text": "Because comments matter.",
+    "all": [{
+            "icon": "fa fa-plane",
+            "name": "Drive new customers to your store",
+            "text": "Komenteo sends special deals to customers from your area. Clients get paid after they published their reviews."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Reward Customers for leaving public reviews",
+            "text": "Your customer receive a compensation after they left their review on your google page."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Target customers based on their profile",
+            "text": "Offer special discounts to customers that are known to 'drink wine' or 'usually come in large group'."
+        },
+        {
+            "icon": "fa fa-wordpress",
+            "name": "Manage your only reputation",
+            "text": "Use Komenteo AI tool to automate customer support. Get alerts based on sentiment analysis."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "See user reviews in your own language",
+            "text": "Komenteo can display user reviews in the language of your choice and translate your response back."
         }
-
-
-    ],
+               ]},
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
@@ -110,17 +105,17 @@
     },
     "Features": [{
             "icon": "fa fa-group",
-            "title": "Get New Customers",
+            "title": "Get new customers",
             "text": "Get new customers throught the Komenteo Platform."
         },
         {
             "icon": "fa fa-comments-o",
-            "title": "Get Comments",
+            "title": "Get new user reviews",
             "text": "Get verified reviews from real customers."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Get Alerts",
+            "title": "Get alerts",
             "text": "Setup alerts on negative reviews and manage your online reputation."
         }
     ]
