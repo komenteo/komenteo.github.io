@@ -29,7 +29,7 @@ $ yarn install
 
 ## Run site locally
 
-For now, you have remove the "homepage" entry from ./package.json in order to run the site locally (this var is
+For now, you have to remove the "homepage" entry from ./package.json in order to run the site locally (this var is
 otherwise used during yarn deploy).
 For example rename the key "_homepage" (add a underscore). Then run
 
