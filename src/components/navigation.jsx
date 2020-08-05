@@ -22,7 +22,6 @@ export class Navigation extends Component {
               <img src="img/komenteo.png" className="img-responsive" width="130" alt=""/>
             </a>{" "}
           </div>
-
           <div
             className="collapse navbar-collapse"
             id="bs-example-navbar-collapse-1"
