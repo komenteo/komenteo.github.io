@@ -39,4 +39,4 @@ $ yarn start
 ## Deploy to github page
 $ yarn deploy
 
-Then visit https://komenteo.github.io/website/
+Then visit https://komenteo.github.io/
