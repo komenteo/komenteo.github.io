@@ -20,7 +20,7 @@ function main() {
 
     $('body').scrollspy({
         target: '.navbar-default',
-        offset: 0
+        offset: 80
     });
 
 	// Hide nav on click
